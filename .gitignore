@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+prescription_model.joblib
+.DS_Store
